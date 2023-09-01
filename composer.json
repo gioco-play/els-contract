@@ -1,0 +1,18 @@
+{
+    "name": "gioco-plus/els-contract",
+    "description": "els Interface",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ellie guo",
+            "email": "Ellie.guo@goldenf.co"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "GiocoPlus\\ELS\\": "src/"
+        }
+    },
+    "require": {}
+}
